@@ -28,6 +28,9 @@ const config: Config = {
 					900: '#1F0D3E',
 				},
 			},
+			dropShadow: {
+				glowaccent: ['0 1px 1px rgba(106, 68, 131, 1)', '0 1px 1px rgba(106, 68, 131, 1)'],
+			},
 		},
 	},
 	plugins: [],
